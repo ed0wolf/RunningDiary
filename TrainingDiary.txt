@@ -87,15 +87,25 @@ Sunday's intervals were the only run of the week, tried a couple on the treadmil
 
 03-09 Feb 2014
 --------------
-  Monday:
-  Tuesday:
-  Wednesday:
-  Thursday:
-  Friday:
+  Monday: REST
+
+  Tuesday: REST
+
+  Wednesday: 12min warm up
+             10 x 400m @ ~70-85s with 400m recovery jog between each
+             12min cool down
+             (Super windy and rains meant the times fluctuated pretty wildley. Lost focus early on due to wind 
+              but regained focus to end with 4-5 really good 73-77s intervals with the wind and rain still gusting.)
+
+  Thursday: Gym
+  
+  Friday: Swim/Hike
+  
   Saturday: 10-15min warm up + drills and stretching
-            15 x 400m @ ~75s with 400m recovery jog between each
+            6 x 1000m @ sub 3:20 with 400m recovery jog between each
             10-15min cool down
-  Sunday:
+  
+  Sunday: REST
   
 10-16 Feb 2014
 --------------
