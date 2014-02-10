@@ -116,12 +116,12 @@ Sunday's intervals were the only run of the week, tried a couple on the treadmil
 --------------
   Monday: REST
   
-  Tuesday: 40min easy + 10 strides
+  Tuesday: 30-40min easy + 10 strides
   
   Wednesday: Gym
   
   Thursday: 12min warm up
-            4 miles @ tempo - 6 - 6:15 min/mile
+            4 miles @ tempo (6 - 6:15 min/mile)
             12min cool down
             
   Friday: Gym/Swim
@@ -129,7 +129,8 @@ Sunday's intervals were the only run of the week, tried a couple on the treadmil
   Saturday: REST
   
   Sunday: 10-15min warm up
-          5 x 400/1200 compound - 5k pace (~80s lap) then 10k pace (85-90s lap)
+          5 x 400/1200 compound @ 5k pace (~75s lap) then 10k pace (80-85s lap)
+            with 400m/3min recovery
           10-15min cool down + stretching
   
 17-23 Feb 2014
